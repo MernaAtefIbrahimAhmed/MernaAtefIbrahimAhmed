@@ -63,8 +63,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Mario Jumping Animation" />
+  <img src="YOUR_HOSTED_IMAGE_URL.gif" width="300" alt="Mario Jumping on Block" />
 </p>
+
 
 
 
