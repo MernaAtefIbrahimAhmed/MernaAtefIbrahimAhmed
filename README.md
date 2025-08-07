@@ -63,8 +63,9 @@
 ---
 
 <p align="center">
-  <img src="https://your-custom-gif-url.com/mirna-pink-mario.gif" width="1000" alt="Mirna Pink Mario Level" />
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="1000" alt="Pink Mario Full Walk Cycle Animation" />
 </p>
+
 
 
 
