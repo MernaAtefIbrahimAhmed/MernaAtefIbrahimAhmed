@@ -61,7 +61,9 @@
   <a href="merna.atef@ieee-zsb.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&lines=Welcome+to+my+GitHub+Game+World!;✨+Coding+like+a+Gamer+Girl+✨;Leveling+Up+in+Tech+and+Style!)
+<p align="center">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="350" alt="Game Girl Animation" />
+</p>
 
 
 
