@@ -61,9 +61,11 @@
   <a href="merna.atef@ieee-zsb.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 ---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="400" alt="Mario Running Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=F70A8D&center=true&vCenter=true&width=600&lines=🌟+Loading+Level+1...;🎮+Player:+Merna;🧠+Power:+Coding+&+Robotics;🏁+Mission:+Conquer+Tech!" />
 </p>
+
 
 
 
