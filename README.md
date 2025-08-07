@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7729C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=💖+Hey%2C+I'm+Merna+Atef+%7C+Computer+Engineer;🤖+Robotics+%7C+Electronics+%7C+Embedded+Systems+Lover;💡+I+Build+Things+With+Code+%26+Circuits;🚀+Always+Learning+New+Tech+%7C+VHDL+%7C+Linux+%7C+ROS" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ### 👩‍💻 About Me
