@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <img src="YOUR_HOSTED_IMAGE_URL.gif" width="300" alt="Mario Jumping on Block" />
+  <img src="https://your-custom-gif-url.com/mirna-pink-mario.gif" width="1000" alt="Mirna Pink Mario Level" />
 </p>
 
 
