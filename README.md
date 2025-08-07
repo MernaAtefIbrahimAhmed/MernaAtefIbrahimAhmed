@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, I'm Merna Atef 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7729C&center=true&vCenter=true&width=450&lines=Computer+Engineering+Student;Robotics+Enthusias;Passionate+About+Embedded+Systems+%26+VHDL;Always+Learning+Something+New+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7729C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=💖+Hey%2C+I'm+Merna+Atef+%7C+Computer+Engineer;🤖+Robotics+%7C+Electronics+%7C+Embedded+Systems+Lover;💡+I+Build+Things+With+Code+%26+Circuits;🚀+Always+Learning+New+Tech+%7C+VHDL+%7C+Linux+%7C+ROS" alt="Typing SVG" />
 </p>
+
 
 ---
 
