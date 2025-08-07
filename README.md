@@ -47,10 +47,10 @@
 ---
 
 ## 🚀 Current Projects
-- 🔧 **32-bit MIPS Processor** using VHDL
-- 🤖 **Gesture-to-Speech** communication system (ATmega32)
-- 🔥 **Firefighting Robot** and Micromouse Maze Solver
-- 🛠️ Practicing PCB design and embedded Linux projects
+- 🔧 **32-bit MIPS Processor** using VHDL  
+- 🤖 **Gesture-to-Speech** communication system (ATmega32)  
+- 🔥 **Firefighting Robot** and Micromouse Maze Solver  
+- 🛠️ Practicing PCB design and embedded Linux projects  
 
 ---
 
@@ -62,8 +62,8 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTA_HERE/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <a href="https://discord.com/users/1177515053612810240" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
   <a href="https://dev.to/YOUR_DEVTO_HERE" target="_blank">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" />
