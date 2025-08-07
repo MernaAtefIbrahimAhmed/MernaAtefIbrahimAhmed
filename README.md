@@ -63,8 +63,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=F70A8D&center=true&vCenter=true&width=600&lines=🌟+Loading+Level+1...;🎮+Player:+Merna;🧠+Power:+Coding+&+Robotics;🏁+Mission:+Conquer+Tech!" />
+  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="400" alt="Mario Running Animation" />
 </p>
+
 
 
 
