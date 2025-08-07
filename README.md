@@ -26,7 +26,7 @@
 - A gesture-to-speech system for mute individuals using ATmega32
 - Robotic systems for competitions (e.g., firefighting robot, Micromouse)
 
-📫 Reach me on [LinkedIn](#) ← (replace with your link)
+📫 Reach me on [LinkedIn](#) ← (https://www.linkedin.com/in/merna-atef-4252aa287))
 
 📌 Explore my pinned repositories below to see my latest work!
 
