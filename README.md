@@ -4,74 +4,81 @@
 ---
 
 <p align="center">
-  🌟 I'm a passionate and curious Computer Engineering student in my 3rd year,<br>
-  driven by a love for <b>robotics, embedded systems, VHDL, and PCB design</b>.<br>
-  I enjoy creating smart systems that blend hardware & software to solve real-world problems.<br>
-  Always learning, always building 🛠️.
+  💫 I'm a third-year Computer Engineering student passionate about creating smart and impactful systems. <br>
+  I love building with <strong>embedded systems, VHDL, robotics, and electronics</strong>.<br>
+  Always curious, always creating 🛠️
 </p>
 
 ---
 
-## 📊 GitHub Stats & Top Languages
+## 🌟 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MernaAtef&show_icons=true&theme=tokyonight&hide_title=true&hide=issues" alt="Merna's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MernaAtef&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
+- 🎓 3rd-year Computer Engineering student
+- 🤖 Interested in robotics, automation, and smart embedded solutions
+- 💡 Skilled in VHDL, PCB design, logic design, and microcontroller programming
+- 🧠 Always learning something new in hardware and tech!
 
 ---
 
 ## 💻 Languages I Use
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-004482?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-## 🔧 Tools & Technologies
+## 🧰 Tools & Technologies I Use
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VHDL-6A1B9A?style=flat-square" />
-  <img src="https://img.shields.io/badge/PCB-Electronics-4CAF50?style=flat-square" />
-  <img src="https://img.shields.io/badge/KiCAD-233E7E?style=flat-square&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VHDL-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PCB Design-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KiCAD-233E7E?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects I'm Working On
 - 🔧 **32-bit MIPS Processor** using VHDL  
-- 🤖 **Gesture-to-Speech** communication system (ATmega32)  
-- 🔥 **Firefighting Robot** and Micromouse Maze Solver  
-- 🛠️ Practicing PCB design and embedded Linux projects  
+- 🤖 **Gesture-to-Speech System** using ATmega32  
+- 🔥 **Firefighting Robot** & Micromouse maze solver  
+- 🛠️ Practicing and improving PCB circuit design  
 
 ---
 
-## 🌐 Connect With Me!
+## ✨ Extras
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MernaAtefIbrahimAhmed&theme=cute" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MernaAtefIbrahimAhmed&theme=gruvbox&margin-w=10&no-frame=true&row=1&column=5" alt="Trophies" />
+</p>
+
+---
+
+## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1177515053612810240" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://dev.to/YOUR_DEVTO_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ Thank you for visiting! Always open to learning, collaboration, and turning ideas into reality ✨
+  🌈 Thanks for stopping by! Let’s connect and build something awesome together 💫
 </p>
