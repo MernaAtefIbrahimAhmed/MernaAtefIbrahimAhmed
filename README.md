@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Merna Atef 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7729C&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Robotics+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%82;Passionate+About+Embedded+Systems+%26+VHDL;Always+Learning+Something+New+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7729C&center=true&vCenter=true&width=450&lines=Computer+Engineering+Student;Robotics+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%82;Passionate+About+Embedded+Systems+%26+VHDL;Always+Learning+Something+New+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,14 +16,14 @@
 
 ---
 
-### 🌸 GitHub Stats
+### 🌟 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MernaAtefIbrahimAhmed&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 📊 Most Used Languages
+### 📊 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MernaAtefIbrahimAhmed&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -33,13 +33,6 @@
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MernaAtefIbrahimAhmed&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🖥️ GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MernaAtefIbrahimAhmed&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
 ---
