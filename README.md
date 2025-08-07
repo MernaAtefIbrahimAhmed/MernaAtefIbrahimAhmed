@@ -1,34 +1,35 @@
 <h1 align="center">Hi 👋, I'm Merna Atef</h1>
-<h3 align="center">Computer Engineering Student | Robotics & Embedded Systems Enthusiast</h3>
+<h3 align="center">Computer Engineering Student | Robotics, Embedded Systems & PCB Design Enthusiast</h3>
 
 ---
 
-🎓 I’m a third-year Computer Engineering student with a strong passion for *robotics, **embedded systems*, and building intelligent hardware systems.
+🎓 I’m a third-year Computer Engineering student with a deep passion for *robotics, **embedded systems*, and building intelligent hardware solutions.
 
-💡 I’m continuously learning and working on projects involving:
+💡 I’m constantly learning and working on projects involving:
 - Embedded Systems Development
-- VHDL and Digital Logic Design
-- Electronics & Sensors Integration
+- PCB Design & Electronics
+- VHDL & Digital Logic Design
 - ROS (Robot Operating System)
-- Arduino-based robotics
+- Arduino-based Robotics
 - Linux systems & Bash scripting
 
 🛠 Languages & Tools I work with:
 - *Programming Languages:* C, C++, Python, Java, JavaFX
-- *Web:* HTML, CSS
-- *Hardware:* Arduino, Logic Gates, Microcontrollers
+- *Web Technologies:* HTML, CSS
+- *Hardware:* Arduino, Microcontrollers, Logic Gates, Sensors
+- *EDA Tools:* PCB Design (e.g., EasyEDA, KiCAD)
 - *Platforms:* Linux, Git & GitHub, ROS
-- *Hardware Description:* VHDL
+- *Hardware Description Languages:* VHDL
 
 🌱 Currently developing:
-- A MIPS 32-bit processor using VHDL
-- A gesture-based speech system for mute individuals using ATmega32
-- Robotic systems for competitions (e.g., firefighting, Micromouse)
+- A 32-bit MIPS Processor using VHDL
+- A gesture-to-speech system for mute individuals using ATmega32
+- Robotic systems for competitions (e.g., firefighting robot, Micromouse)
 
-📫 You can reach me on [LinkedIn](#) (← حطي لينك البروفايل بتاعك هنا)
+📫 Reach me on [LinkedIn](#) ← (replace with your link)
 
-📌 Check out my pinned repositories below to see my latest work!
+📌 Explore my pinned repositories below to see my latest work!
 
 ---
 
-⭐ Fun fact: I love solving real-world problems with hardware + code!
+⭐ Fun fact: I love combining hardware, code, and creativity to bring real-world solutions to life!
