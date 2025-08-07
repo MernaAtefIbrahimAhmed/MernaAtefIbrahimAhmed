@@ -62,8 +62,9 @@
 </p>
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="350" alt="Game Girl Animation" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Game Loading Animation" />
 </p>
+
 
 
 
