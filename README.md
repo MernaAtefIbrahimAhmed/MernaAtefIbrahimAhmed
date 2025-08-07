@@ -63,8 +63,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="1000" alt="Pink Mario Full Walk Cycle Animation" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Game Loading Animation" />
 </p>
+
 
 
 
