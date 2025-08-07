@@ -60,5 +60,6 @@
   <a href="https://discord.com/users/1177515053612810240"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="merna.atef@ieee-zsb.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-<img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="180" alt="Pixel Girl" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&lines=Welcome+to+my+GitHub+Game+World!;✨+Coding+like+a+Gamer+Girl+✨;Leveling+Up+in+Tech+and+Style!)
+
 
