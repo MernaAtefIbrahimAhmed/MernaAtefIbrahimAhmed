@@ -62,8 +62,10 @@
 </p>
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="400" alt="Game Start Animation" />
+  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="400" alt="Mario Running Animation" />
 </p>
+
+
 
 
 
